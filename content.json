@@ -1,5 +1,5 @@
 {
-  "available": true,
+  "available": false,
   "videos": [
     {
       "url": "https://www.youtube.com/embed/Rqp7qahIwsI",
@@ -14,11 +14,6 @@
       "caption": "May 2025 — Combat System"
     }
   ],
-  "prices": {
-    "basic":    { "usd": 75,    "rbx": 15000 },
-    "standard": { "usd": 200,   "rbx": 40000 },
-    "advanced": { "usd": 400,   "rbx": 80000 }
-  },
   "skills": [
     { "icon": "🖥️", "label": "Luau" },
     { "icon": "🏗️", "label": "OOP / System Architecture" },
