@@ -15,11 +15,15 @@
     }
   ],
   "skills": [
-    { "icon": "🖥️", "label": "Luau" },
-    { "icon": "🏗️", "label": "OOP / System Architecture" },
-    { "icon": "⚙️",  "label": "Game Systems" },
-    { "icon": "🎮", "label": "Game Design" }
-  ],
+    { "icon": "⚡", "label": "Luau Scripting" },
+    { "icon": "🧱", "label": "System Architecture" },
+    { "icon": "⚔️", "label": "Combat Systems" },
+    { "icon": "🎯", "label": "Game Design" },
+    { "icon": "🧠", "label": "OOP & Clean Code" },
+    { "icon": "🎮", "label": "Player Experience" },
+    { "icon": "📦", "label": "Modular Systems" },
+    { "icon": "🔫", "label": "FPS Systems" }
+  ]
   "about": [
     "Full gameplay systems built from scratch",
     "Clean, modular code that's easy to hand off",
