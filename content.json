@@ -23,7 +23,7 @@
     { "icon": "🎮", "label": "Player Experience" },
     { "icon": "📦", "label": "Modular Systems" },
     { "icon": "🔫", "label": "FPS Systems" }
-  ]
+  ],
   "about": [
     "Full gameplay systems built from scratch",
     "Clean, modular code that's easy to hand off",
